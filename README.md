@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# ReFi Score
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ReFi Score is a decentralized protocol designed to create a dashboard showcasing the leading communities and companies in regenerative finance (ReFi). Our goal is to provide a fair and transparent platform that efficiently connects donors and projects. By utilizing blockchain technology, we present the results and impact of these projects on-chain, scoring them based on their impact. This ensures that both donors and projects can maximize their impact profits.
 
-## Available Scripts
+## Mission
 
-In the project directory, you can run:
+Our mission is to transform regenerative finance into a public good by creating an infrastructure that allows for the evaluation, funding, and tracking of projects based on their social and environmental impact. We aim to make regeneration a profitable and accessible process for all, promoting a more equitable and sustainable economy.
 
-### `npm start`
+## Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Impact Dashboard**: Visualization of projects and their impact, scored by impact score.
+- **On-Chain Transparency**: Results and evaluations publicly available on the blockchain.
+- **Fair Connection**: Platform facilitating efficient connections between donors and projects.
+- **Evaluation and Scoring**: Scoring system ensuring funding of high-impact projects.
+- **Global Access**: Platform accessible to users worldwide, promoting inclusive funding.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contribution
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We aim to build a strong community of developers, donors, and projects. If you're interested in contributing, whether through code, ideas, or funding, you're welcome. Our GitHub repository is open for collaborations and suggestions.
